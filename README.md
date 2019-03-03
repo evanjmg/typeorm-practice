@@ -9,4 +9,5 @@ I love the migration generation and it's a lot easier than other ORMS ie Active 
 TODOS
 - fix lint errors, the generators don't format properly
 - figure out json serialisation
--
+- add search
+- add authentication

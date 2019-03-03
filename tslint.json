@@ -1,9 +1,9 @@
 {
     "defaultSeverity": "error",
-    "extends": [
-        "tslint:recommended"
-    ],
+    "extends": "tslint-config-airbnb",
     "jsRules": {},
+    "semicolon": "false",
+    "import-name": "false",
     "rules": {
         "interface-name": [false],
         "no-console": [false],
